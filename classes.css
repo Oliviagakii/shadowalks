@@ -1,0 +1,15 @@
+#heading1{
+    font-size: 60px;
+}
+#heading2{
+    color: cyan;
+}
+#heading3{
+    text-align: center;
+}
+.paragraph1{
+    font-style: italic;
+}
+.paragraph1{
+    font-weight: bold;
+}

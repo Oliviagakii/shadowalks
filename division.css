@@ -1,0 +1,43 @@
+#first{
+    background-color: cyan;
+    margin: 30px;
+    padding: 30px;
+}
+#mydiv{
+    background-color: #d000ff;
+    margin-top: 60px;
+    padding: 30px;
+}
+#main{
+    text-align: center;
+}
+ .mymain{
+     display: flex;
+ }
+ #course1:hover{
+     background-color: cyan;
+     color: black;
+     padding: 20px;
+ }
+ #course2:hover{
+     background-color: #d000ff;
+     color: white;
+     padding: 20px;
+     margin-left: 20px;
+     margin-right: 20px;
+ }
+ #course3:hover{
+     background-color: blanchedalmond;
+     color: black;
+     padding: 20px;
+
+ }
+ image{
+     float: right;
+ }
+ .heading3{
+     text-align: center;
+ }
+
+
+
